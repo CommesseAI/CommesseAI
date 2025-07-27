@@ -1,7 +1,8 @@
 import streamlit as st
 from utils import estrai_commessa
 from search import cerca_risposta
-from loader import load_pdfs_and_indexfrom utils
+from loader import load_pdfs_and_index
+
 
 st.set_page_config(page_title="Assistente PDF Commesse", layout="wide")
 
