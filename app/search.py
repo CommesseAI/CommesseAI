@@ -2,7 +2,7 @@ import os
 import faiss
 import pickle
 from sentence_transformers import SentenceTransformer
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain.schema import HumanMessage
 import streamlit as st
 
