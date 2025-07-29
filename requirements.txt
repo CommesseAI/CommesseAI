@@ -1,8 +1,0 @@
-streamlit
-openai
-langchain
-langchain-community
-langchain-openai
-sentence-transformers
-faiss-cpu
-pymupdf==1.22.5
