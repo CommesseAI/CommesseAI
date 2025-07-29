@@ -1,6 +1,7 @@
 streamlit
+openai
+langchain
 langchain-community
 sentence-transformers
 faiss-cpu
 pymupdf==1.22.5
-openai
